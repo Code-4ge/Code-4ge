@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Neeraj Panmand
 - 👀 I’m interested in Web Development and Cyber Security
 - 🌱 I’m currently learning Full-Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn :- https://in.linkedin.com/in/neeraj-panmand
 
 <!---
