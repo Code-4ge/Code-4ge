@@ -1,6 +1,6 @@
 
 
-# [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">](#) Hi there, I'm Neeraj Panmand
+# Hi there, I'm Neeraj Panmand [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">](#)
 [<img align="left" alt="Code-4ge | LinkedIn" width="30px" src="https://img.icons8.com/material-rounded/90/000000/linkedin--v2.gif"/>][linkedin]
 [<img align="left" alt="Code-4ge | Instagram" width="32px" src="https://img.icons8.com/fluency-systems-regular/90/000000/instagram-new--v2.png" />][instagram]
 [<img align="left" alt="Code-4ge | Facebook" width="29px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>][facebook]
