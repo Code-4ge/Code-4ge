@@ -12,7 +12,7 @@
 ### I'm a Computer Science Undergraduate, Developer and Cyber Enthusiast!! 👨‍🎓
 
 - 🌱 I’m currently learning everything 😎
-- 👨‍💻 I’m interested in Full-Stack Development, UI Designing and Cyber Security
+- 👨‍💻 I’m interested in Full-Stack Development, UI/UX Designing and Cyber Security
 - 👯 I’m looking to collaborate with other Designer and Developer
 - ⚡ Fun fact: I love to design and play hockey / football
 
