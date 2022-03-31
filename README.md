@@ -1,11 +1,13 @@
 
 
 # Hi there, I'm Neeraj Panmand [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">](#)
-[<img align="left" alt="Code-4ge | LinkedIn" width="30px" src="https://img.icons8.com/material-rounded/90/000000/linkedin--v2.gif"/>][linkedin]
-[<img align="left" alt="Code-4ge | Instagram" width="32px" src="https://img.icons8.com/fluency-systems-regular/90/000000/instagram-new--v2.png" />][instagram]
-[<img align="left" alt="Code-4ge | Facebook" width="29px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="Code-4ge | Mail" width="29px" src="https://img.icons8.com/material-outlined/96/000000/mail.png"/>][mail]
-
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/material-rounded/90/000000/linkedin--v2.gif" target="__blank"/>][linkedin]
+[<img align="left" alt="Portfolio" width="29px" src="https://img.icons8.com/ios-glyphs/344/domain.png"/>][portfolio]
+[<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluency-systems-regular/90/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="Facebook" width="29px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Mail" width="29px" src="https://img.icons8.com/material-outlined/96/000000/mail.png"/>][mail]
+<!-- [<img align="left" alt="Portfolio" width="29px" src="https://raw.githubusercontent.com/Code-4ge/Code-4ge.github.io/main/assets/img/icon.ico -->
+<!-- "/>][portfolio] -->
 <br/>
 <br/>
 
@@ -47,8 +49,9 @@
 [![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-4ge&show_icons=true&theme=highcontrast&bg_color=45,e76445,904e95)](#)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-4ge&layout=compact&theme=radical)](#)
-<!--- [![neeraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Code-4ge)](#)--->
-
+<br/>
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=Code-4ge&theme=onedark)](#) -->
+<!-- [![neeraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Code-4ge)](#) -->
 
 
 
@@ -57,8 +60,5 @@
 [instagram]: https://www.instagram.com/neerajpanmand
 [facebook]: https://www.facebook.com/neeraj.panmand.9
 [mail]: mailto:panmnandneeraj@gmail.com
+[portfolio]: https://code-4ge.github.io/
 
-<!---
-Code-4ge/Code-4ge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
