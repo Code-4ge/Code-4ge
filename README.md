@@ -1,7 +1,7 @@
 
 
 # Hi there, I'm Neeraj Panmand [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">](#)
-[<img align="left" alt="Portfolio" width="25px" src="https://github.com/Code-4ge/Code-4ge/blob/main/logo.svg"/>][portfolio]
+[<img align="left" alt="Portfolio" width="25px" height="23px" src="https://github.com/Code-4ge/Code-4ge/blob/main/logo.svg"/>][portfolio]
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/material-rounded/90/000000/linkedin--v2.gif"/>][linkedin]
 [<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluency-systems-regular/90/000000/instagram-new--v2.png" />][instagram]
 [<img align="left" alt="Facebook" width="29px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>][facebook]
