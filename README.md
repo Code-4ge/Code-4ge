@@ -18,9 +18,7 @@
 - ⚡ Fun fact: I love to design and play hockey / football
 
 
-<br/>
-
-## Tools and Technologies:
+<!-- ## Tools and Technologies:
 
 [<img align="left" alt="C/C++" width="35px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />](#)
 [<img align="left" alt="Python" width="35px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>](#)
@@ -34,7 +32,7 @@
 [<img align="left" alt="Flask" width="45px" height="45px" src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>](#)
 [<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png"/>](#)
 [<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png"/>](#)
-[<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v2.gif"/>](#)
+[<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v2.gif"/>](#) -->
 
 
 <br/>
@@ -43,9 +41,9 @@
 <!-- ### 📈 Github Stats: -->
 ### Github Stats:
 
-[![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-4ge&show_icons=true&theme=highcontrast&bg_color=45,e76445,904e95)](#)
+[![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-4ge&show_icons=true)](#)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-4ge&layout=compact&theme=radical)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-4ge&layout=compact)](#)
 <br/>
 <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=Code-4ge&theme=onedark)](#) -->
 <!-- [![neeraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Code-4ge)](#) -->
