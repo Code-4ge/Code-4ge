@@ -34,12 +34,10 @@
 [<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png"/>](#)
 [<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v2.gif"/>](#) -->
 
-
-<br/>
 <br/>
 
 <!-- ### 📈 Github Stats: -->
-### Github Stats:
+## Github Stats:
 
 [![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-4ge&show_icons=true)](#)
 <br/>
